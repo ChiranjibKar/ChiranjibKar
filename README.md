@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChiranjibKar
-- 👀 I’m interested in UI/UX designing.
-- 🌱 I’m currently learning Web Designing , Cloud Computing (AWS) and Dart (Flutter).
+- 👀 I’m interested in UI/UX designing and IoT.
+- 🌱 I’m currently learning Web Designing , and C++ programming.
 - 💞️ I’m learning everyday new skills to enhance myself further.
 - 📫 To reach me mail me at karchiranjib98@gmail.com
 <!---
