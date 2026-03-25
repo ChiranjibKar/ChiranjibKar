@@ -1,4 +1,4 @@
-- 👀 I’m interested in AI/ML, Gen AI and LLMs.
+- 👀 I’m interested in AI/ML, Gen AI, LLMs and Cloud.
 - 🌱 I’m currently learning Python programming for AI/ML.
 - 💞️ I’m learning everyday new skills to enhance myself further.
 - 📫 To reach me mail me at karchiranjib98@gmail.com
